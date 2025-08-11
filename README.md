@@ -25,9 +25,6 @@ A modern, responsive personal portfolio website built using HTML, CSS, and JavaS
 - Framer Motion–style fade-in animations using Intersection Observer
 - Section-based layout with clean spacing
 
-## 📸 Preview
-
-![Portfolio Screenshot](assets/images/screenshot.png)
 
 ## 📂 Folder Structure
 
